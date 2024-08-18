@@ -1,5 +1,5 @@
-
-#Explanation:
+Hosted link : https://tanvideshmukh999.github.io/weekly-test-4/
+# Explanation:
 HTML:
 
 The HTML structure includes a navigation bar, header with phone details, search field, loading indicator, phone container, and modals for displaying phone details.
